@@ -1,0 +1,69 @@
+{
+    "Events":"الفعاليات",
+    "Show Event":"مشاهدة الفعالية",
+    "No defined Event!":"",
+
+    "Home":"الرئسية",
+    "For the poor children":"العنوان الرئسي الصفحة الرئسية",
+    "Every day we bring hope to millions of children in the world's":"العنوان الفرعي الصفحة الرئسية",
+    "OUR CAUSES":"الاطفال الايتام ",
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!":"معرض لاطفال الايتام المحتاجين لتبرع",
+    "Gallery":"الصور",
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit.":"معرض صور لاطفال المحتاجين تبرع",
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit1.":"الاحداث و الفعاليات ",
+    "There are currently no events":"لا يوجد فعاليات حاليا  ",
+
+    "About":"من نحن",
+    "Rise your Helping Hand please save the children.":"عنوان الاول من نحن",
+    "Lorem ipsum dolor sit amet soluta saepe odit error, maxime praesentium sunt udiandae!":"عنوان الثاني من نحن" ,
+    "Lorem ipsum dolor sit amet, consectetur  elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae":"العنوان الثالث من نحن",
+
+    "Emergencies":"الحالات الطارئة",
+    "Contact Us":"التواصل",
+    "Enter Name":"ادخل الاسم",
+    "Enter Phone":"ادخل رقم الهاتف",
+    "Enter Email":"ادخل الاميل",
+    "Enter Subject":"ادخل موجز الرسالة ",
+    "Enter Message":"ادخل الرسالة بتفصيل",
+    "Send your message":"ارسال الرسالة",
+
+    "Event":"فعالية",
+    "Created At":"تاريخ النشر",
+
+    "Orphans":"الايتام",
+    "Donate":"تبرع",
+    "Login/Register":"تسجيل / تسجيل دخول",
+    "Email":"البريد الالكتروني",
+    "Password":"كلمة السر",
+    "Re-enter Password":"اعد كتابة كلمة السر",
+    "Email Address":"البريد الالكتروني",
+    "Country":"الدولة",
+    "Name":"الاسم",
+    "Phone":"الهاتف",
+    "Login":"تسجيل",
+    "Register":"تسجيل دخول",
+    "Don't have an Account? Register Now.":"ليس لديك حساب؟ سجل الان.",
+    "Forgot Your Password?":"نسيت كلمة السر؟",
+
+    "Event Description":"وصف الفعالية",
+
+    "Wrong email or password":"خطا في البريد الالكتروني او كلمة السر",
+    "Email or mobile number already exists":"البريد الالكتروني او رقم الجوال موجود مسبقا",
+    "error email or password":"خطأ في البريد الإلكتروني أو كلمة المرور",
+
+    "Causes Grid":"الايتام",
+
+    "Categories":"الاقسام",
+
+
+
+    "Forgot Password":"هل نسيت كلمة السر",
+    "Send Reset Link":"تم ارسال رسالة الى الاميل",
+    "Password confirmation":"تأكيد كلمة المرور",
+    "Reset Password":"إعادة تعيين كلمة المرور",
+    "Please check your email":"الرجاء تفقد الاميل الخاص بك",
+    "Your password has been changed!":"تم تغيير كلمة السر الخاصة بك!",
+    "No data has been added to this section yet":"لم يتم إضافة أي بيانات إلى هذا القسم حتى الآن",
+    "No categories have been added yet":"لم يتم اضافة اقسام بعد"
+
+}
